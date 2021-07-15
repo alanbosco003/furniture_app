@@ -33,11 +33,11 @@ class _ItemsState extends State<Items> {
                     offset: Offset(0, 2),
                   )
                 ]),
-            width: 160,
+            width: 140,
             child: Row(
               children: [
                 SizedBox(
-                  width: 30,
+                  width: 25,
                 ),
                 Icon(
                   Icons.event_seat,
